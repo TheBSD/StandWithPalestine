@@ -11,10 +11,10 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 ## For Maintainers and Authors
 
-1. Spread the word. [Add one of the banners](./docs/AddBanner.md) to your **`README.md`**.
+1. Spread the word. [Add one of the banners](./docs/add-banner.md) to your **`README.md`**.
 2. Boycott [Israeli occupation software](https://github.com/TheBSD/poykott) and any of its supporters.
 3. Deliver a message to your users along with your next release.
-4. Follow the [cyber safety guide](/docs/CyberSafety.md).
+4. Follow the [cyber safety guide](/docs/cyber-safety.md).
 5. Help to improve this repo grammatically, translations, insightful links, how to donor, and so on.
 
 ## Projects that #StandWithPalestine

@@ -13,7 +13,7 @@ The best way to financially support Palestine is by donating directly to one of 
 **Other way to support**
 
 - 🗣 Don’t be silent:
-  - [Add banners](https://thebsd.github.io/StandWithPalestine/add-banners.html) to your open source project and profile. See [examples](https://github.com/search?q=theBSD%2FStandWithPalestine&type=code).
+  - [Add banners](./add-banner.md) to your open source project and profile. See [examples](https://github.com/search?q=theBSD%2FStandWithPalestine&type=code).
   - Protest against the war in your city.
   - Demand severe sanctions against Israel and support for Palestine from your leaders.
   - Reach out to Palestinian friends, offer help.
