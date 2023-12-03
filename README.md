@@ -22,4 +22,5 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 _Add your project repo to add it to this list_
 
 - [sveltegram](https://github.com/amr3k/sveltegram) - Reactive Telegram widgets built with svelte
+- [map.edgify.net](https://map.edgify.net/) - a reactive map of Gaza and its bombed blocks
 - [**...and more**](https://github.com/search?q=TheBSD%2FStandWithPalestine&type=code)
