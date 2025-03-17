@@ -18,8 +18,7 @@ The best way to financially support Palestine is by donating directly to one of 
   - Demand severe sanctions against Israel and support for Palestine from your leaders.
   - Reach out to Palestinian friends, offer help.
 - ❌ Boycott Israeli businesses:
-  - Cancel subscriptions and stop giving your money to [Israeli software, dependencies and infrastructure companies](https://github.com/TheBSD/poykott/blob/main/isreal-companies-services.json).
-  - Cancel subscriptions and stop giving your money to [companies which support israel](https://github.com/TheBSD/poykott/blob/main/companies-support-isreal.json).
+  - Cancel subscriptions and stop funding [companies that support Israel and Israeli tech companies](https://boycottisraelitech.com/).
   - Suffocate Israeli economy to limit its ability to fund the war!
 - 📰 Resist propaganda:
   - Educate yourself and others on the Israeli threat.
