@@ -8,7 +8,7 @@
 
 **Donate via trusted institutions**
 
-The best way to financially support Palestine is by donating directly to one of the trusted institutions in your county.
+The best way to financially support Palestine is by donating directly to one of the trusted institutions in your country.
 
 **Other way to support**
 
